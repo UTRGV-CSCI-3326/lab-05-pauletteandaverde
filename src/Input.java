@@ -22,7 +22,7 @@ public class Input {
         smoker = scanner.nextBoolean(); 
 
         // Outputting info
-        System.out.println("Patient's Full Name: " + name);
+        System.out.println("Patient's Full Name:" + name);
         System.out.println("Patient's Age: " + age);
         System.out.println("Patient's Weight: " + weight);
         System.out.println("Patient is a smoker: " + smoker);
